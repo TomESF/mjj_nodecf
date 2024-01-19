@@ -9,7 +9,7 @@ export WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
 export ARGO_AUTH=${ARGO_AUTH:-''}
 export WSPATH=${WSPATH:-'argo'}
 export UUID=${UUID:-'113195ac-5c8a-4d38-8067-2f5057d70380'}
-export CFIP=${CFIP:-'icook.hk'}
+export CFIP=${CFIP:-'csgo.com'}
 export NAME=${NAME:-''}
 export SERVER_PORT="${SERVER_PORT:-${PORT:-3000}}"
 
