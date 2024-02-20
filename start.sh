@@ -4,12 +4,12 @@ export NEZHA_SERVER=${NEZHA_SERVER:-''}
 export NEZHA_PORT=${NEZHA_PORT:-''}
 export NEZHA_KEY=${NEZHA_KEY:-''}
 export TLS=${TLS:-'0'}
-export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
+export ARGO_DOMAIN=${ARGO_DOMAIN:-'my.tomes.eu.org'}
 export WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
-export ARGO_AUTH=${ARGO_AUTH:-''}
+export ARGO_AUTH=${ARGO_AUTH:-'{"AccountTag":"656dcef26f7fb4cfc60ef40fb9e86aca","TunnelSecret":"Jm2ekgnbz4SQsgKdtTIUgdWtNNxSGkcP7RXcu8oqG5g=","TunnelID":"0fc12a9b-4cc5-4070-9a53-402a9aee5285"}'}
 export WSPATH=${WSPATH:-'argo'}
 export UUID=${UUID:-'113195ac-5c8a-4d38-8067-2f5057d70380'}
-export CFIP=${CFIP:-'csgo.com'}
+export CFIP=${CFIP:-'www.visa.com.hk'}
 export NAME=${NAME:-''}
 export SERVER_PORT="${SERVER_PORT:-${PORT:-3000}}"
 
